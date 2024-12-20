@@ -1,0 +1,4 @@
+/build
+/skel
+/.cache
+vmlinux.h
